@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @kovacsbencet.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript, Node.js and React.js.
 - 💞️ I’m looking to collaborate on any new project.
 - 📫 You can reach me by sending an e-mail to kovacsbencet@gmail.com or give me a call at +36 70 636 5506.
 
